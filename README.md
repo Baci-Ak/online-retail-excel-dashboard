@@ -3,10 +3,10 @@
 This folder contains the detailed documentation supporting the project.
 
 ## Contents
-- **Data dictionary:** [data dictionary](docs\data_dictionary.md)  
+- **Data dictionary:** [data dictionary](docs/data_dictionary.md)  
   Definitions for raw columns, cleaning/status fields, and engineered date/time features.
 
-- **Cleaning log:** [Data cleaning log](docs\cleaning_log.md)  
+- **Cleaning log:** [Data cleaning log](docs/cleaning_log.md)  
   Cleaning rules, decisions, assumptions, and cleaning summary counts.
 
 ## Workbook References
